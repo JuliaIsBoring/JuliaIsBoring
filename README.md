@@ -4,7 +4,7 @@
 - ♡ I’m looking to collaborate on ...
 - ✎ᝰ.📓🗒ˎˊ˗ A person that like Ghost
 - (づ˶•༝•˶)づ♡ Pronouns: She/Her/Ghost
-- ⚡ Fun fact: I'm a person
+- ┆ ⤿ 💌 ⌗ Fun fact: I'm a person
 - ‧₊˚🖇️✩ ₊˚🎧⊹♡ Music is always good
 <!---
 JuliaIsBoring/JuliaIsBoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
