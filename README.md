@@ -6,7 +6,7 @@
 - (づ˶•༝•˶)づ❤️ Pronouns: She/Her/Ghost
 - ┆ ⤿ 💌 ⌗ Fun fact: I'm a person
 - ‧₊˚🖇️✩ ₊˚🎧⊹♡ Music is always good
-໒꒰ྀིᵔ ᵕ ᵔ ꒱ྀི১
+ °‧🫧⋆.ೃ࿔*:･
 <!---
 JuliaIsBoring/JuliaIsBoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
