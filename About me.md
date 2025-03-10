@@ -1,4 +1,5 @@
 - ⋆˚𝜗𝜚˚⋆ Hi, I’m Julia
+- ‧₊˚ ☁️⋅♡🪐༘⋆I LOVE ANIMIE FOREVER!!!
 - ˚˖𓍢🌷✧˚.🎀⋆I’m interested in art things
 - ᯓᡣ𐭩 I’m currently learning some subject
 - ⋆.°🦋༘⋆ Love myself first forever
@@ -9,6 +10,7 @@
 - °‧🫧⋆.ೃ࿔*:･ Love black and purple
 - ⋆｡‧˚ʚ🧸ɞ˚‧｡⋆How could animals be so cute
 - ⊹₊ ⋆🎂💐🎉 ₊˚⊹Since born at 2/12/2012
+- ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚ Freedom I'm coming!
 <!---
 JuliaIsBoring/JuliaIsBoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
