@@ -1,5 +1,5 @@
 - ⋆˚𝜗𝜚˚⋆ Hi, I’m Julia
-- ☺ I’m interested in art things
+- °˖𓍢ִ🌷͙֒✧°.🎀༘⋆ I’m interested in art things
 - ᯓᡣ𐭩 I’m currently learning some subject
 - ⋆.°🦋༘⋆ I’m looking to collaborate on ...
 - ✎ᝰ.📓🗒ˎˊ˗ A person that like Ghost
