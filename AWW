@@ -1,0 +1,10 @@
+cerealList = []
+hated = ["sultana and bran", "weetbix"]
+
+while True:
+    cereal = input("Enter Cereal: ").strip().lower()
+    if cereal in hated:
+        break
+    cerealList.append(cereal.title())
+
+print(cerealList)
