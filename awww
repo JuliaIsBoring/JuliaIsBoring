@@ -1,0 +1,8 @@
+stringsList = ["abc", "123", "2332", "aBBA", "heelloo", "1212", "DcEfD"]
+
+count = 0
+for string in stringsList:
+    if string[0].lower() == string[-1].lower():
+        count += 1
+
+print(f"Number of strings with same start and end (case-insensitive): {count}")
